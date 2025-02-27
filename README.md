@@ -1,1 +1,1 @@
-Creating a user interface for working with
+Creating a user interface for working with postgresql
